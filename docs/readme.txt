@@ -8,3 +8,8 @@ repository for tracking AI settings across sessions
 but usually run 1
 6.  Build an installation structure for personal development machines
 7.  Provide a source for project specific .claude folders
+
+
+notes on AI Usage
+1.  AI will use cloud storage, need to specify where to modify files
+2.  Note when paths are added to the AI context, where is that 
